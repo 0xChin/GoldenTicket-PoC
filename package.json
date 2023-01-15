@@ -6,6 +6,7 @@
   },
   "dependencies": {
     "@flashbots/ethers-provider-bundle": "^0.6.1",
+    "chai": "^4.3.7",
     "dotenv": "^16.0.3"
   }
 }
